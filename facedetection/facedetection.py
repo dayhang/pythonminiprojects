@@ -26,7 +26,7 @@ while True:
         minNeighbors = 7,
         minSize =(30,30))
  
-    # draw the rectangles
+    # draw the rectangles for visualization
     for (x, y, w, h) in faces:
         cv2.rectangle(frame,(x,y),(x + w, y + h),(0,255,0),2)
  
