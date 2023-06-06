@@ -6,9 +6,11 @@ This repository contains a collection of small Python projects that I created to
 
 Here is a list of the mini-projects included in this repository:
 
-Project 1:
+Project 1: converter
 
-Project 2: 
+Project 2: facedetection
+
+Project 3: selenium test
 
 Each project is designed to be self-contained and can be run independently of the others. They are all relatively simple, but each one demonstrates a different aspect of Python programming, such as control flow, functions, modules, and object-oriented programming.
 
