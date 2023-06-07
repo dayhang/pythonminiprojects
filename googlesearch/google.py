@@ -12,4 +12,4 @@ def search_and_open(keyword, position):
             webbrowser.open_new_tab(url)
             break
 
-search_and_open("loskd", 5)
+search_and_open("happy", 5)
