@@ -10,7 +10,7 @@ Project 1: converter
 
 Project 2: facedetection
 
-Project 3: selenium test
+Project 3: selenium test file
 
 Project 4: work
 
